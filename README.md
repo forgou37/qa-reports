@@ -8,7 +8,6 @@
 
 | Project | Date | Critical | High | Medium | Low | Disclosure |
 |---------|------|----------|------|--------|-----|------------|
-| [Artgen](./artgen-qa-report.md) | 2026-03-09 | 3 | 3 | 4 | 0 | Pending |
 | [Libredesk](./libredesk-audit.md) | 2026-03-10 | 0 | 2 | 2 | 0 | Pending |
 
 ---
